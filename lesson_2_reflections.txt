@@ -2,3 +2,7 @@
 When you initialize a repository you create the place where the history of commits will be keep. Without initializing an repository you can't save commits.
 ***How is the staging area different from the working directory and the repository? What value do you think it offers?
 The working directory is the place where the real files are stored, the repository is the place where commits are keeped, while the staging are is something used for a short time, that makes the connection between the two above. Thanks to the staging area the user can choose what files to commit to the repository.
+***How can you use the staging area to make sure you have one commit per logical change?
+Bla, bla, bla...
+***How do the diagrams help you visualize the branch structure?
+Very much.
