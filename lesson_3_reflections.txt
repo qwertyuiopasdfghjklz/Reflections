@@ -1,2 +1,4 @@
-When would you want to use a remote repository rather than keeping all your work local?
-I would like to use a remote repository when I want other people to see my work, so they can contribute too.
+Q:When would you want to use a remote repository rather than keeping all your work local?
+A:I would like to use a remote repository when I want other people to see my work, so they can contribute too.
+Why might you want to always pull changes manually rather than having Q:Git automatically stay up-to-date with your remote repository?
+A:No, I have to make the update personally.
