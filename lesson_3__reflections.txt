@@ -1,0 +1,3 @@
+Q:Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A:To clone refer to copy the information from an website on your local machine; to fork refer to copy somebody else's repository from his/her github account on your github account; a branche represent a chain of commits.
+   
